@@ -1,0 +1,9 @@
+# Binaries
+mem-monitor
+build.sh
+
+# Go
+go.sum
+
+# System
+.DS_Store
